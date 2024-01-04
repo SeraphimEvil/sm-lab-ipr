@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Продвинутые типы",
+    "path": "/src/pages/books/type-script/themes/templates/lists.html"
+  },
+  {
+    "id": 2,
+    "title": "Декораторы",
+    "path": "/src/pages/books/type-script/themes/templates/stack.html"
+  }
+]

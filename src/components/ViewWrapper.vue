@@ -3,7 +3,9 @@
 </script>
 
 <template>
-main page for computer science
+  <div class="wrapper">
+    <slot></slot>
+  </div>
 </template>
 
 <style scoped>

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Списки",
+    "path": "/src/pages/books/computer-science/themes/templates/lists.html"
+  },
+  {
+    "id": 2,
+    "title": "Стек",
+    "path": "/src/pages/books/computer-science/themes/templates/stack.html"
+  },
+  {
+    "id": 3,
+    "title": "Куча",
+    "path": "/src/pages/books/computer-science/themes/templates/stack.html"
+  },
+  {
+    "id": 4,
+    "title": "Дерево",
+    "path": "/src/pages/books/computer-science/themes/templates/stack.html"
+  },
+  {
+    "id": 6,
+    "title": "Рекурсия головная",
+    "path": "/src/pages/books/computer-science/themes/templates/stack.html"
+  },
+  {
+    "id": 7,
+    "title": "Рекурсия хвостовая",
+    "path": "/src/pages/books/computer-science/themes/templates/stack.html"
+  },
+  {
+    "id": 8,
+    "title": "Поиск",
+    "path": "/src/pages/books/computer-science/themes/templates/stack.html"
+  },
+  {
+    "id": 9,
+    "title": "Сортировка",
+    "path": "/src/pages/books/computer-science/themes/templates/stack.html"
+  }
+]
